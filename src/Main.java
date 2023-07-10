@@ -11,6 +11,11 @@ public class Main {
         Adam.temp = "124456 celcius";
         Adam.size ="35672Km";
 
+        Planet1 xeon = new Planet1();
+        xeon.name = "reon";
+        xeon.color = "pink";
+        xeon.temp = "-45 cel";
+        xeon.size = "1cm";
 
     }
 }
