@@ -11,6 +11,11 @@ public class Main {
         Adam.temp = "124456 celcius";
         Adam.size ="35672Km";
 
+        Planet2 Halima = new Planet2();
+        Halima.name = "exo";
+        Halima.color = "white";
+        Halima.size ="temp";
+        Halima.temp ="25cel";
 
     }
 }
